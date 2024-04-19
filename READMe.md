@@ -2,9 +2,11 @@
 
 Everything here shares the same principle as the main repo by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
+📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
+
 ## Licence
 
-<img src="CC-BY-NC-SA-4.0.jpg" width="250" height="100" alt="CC-BY-NC-SA-4.0">
+<img src="CC-BY-NC-SA-4.0.jpg" width="200" height="80" alt="CC-BY-NC-SA-4.0">
 
 Basically
 
