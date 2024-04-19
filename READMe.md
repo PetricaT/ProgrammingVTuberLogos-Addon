@@ -2,7 +2,11 @@
 
 Everything here shares the same principle as the main repo by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
-📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
+### 📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
+
+## Community made
+
+- 📗 [G2-Games Addon](https://github.com/G2-Games/fun-logos) [Kate Editor]
 
 ## Licence
 
