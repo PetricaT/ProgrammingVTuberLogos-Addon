@@ -15,9 +15,11 @@ Licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4
 <img src="CC-BY-NC-SA-4.0.jpg" width="200" height="80" alt="CC-BY-NC-SA-4.0">
 
 You may:
+
 - Share, modify, redistribute under the same license
 - Credit Me
 - Use the resources noncomercially
 
 You may **NOT**:
+
 - Sell without permission
