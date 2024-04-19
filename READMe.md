@@ -8,16 +8,16 @@ Everything here shares the same principle as the main repo by [Aikoyori](https:/
 
 - 📗 [G2-Games Addon](https://github.com/G2-Games/fun-logos) [Kate Editor]
 
-## Licence
+## License
+
+Licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 <img src="CC-BY-NC-SA-4.0.jpg" width="200" height="80" alt="CC-BY-NC-SA-4.0">
 
-Basically
-
-- Do whatever noncommercial
-- Modify it and share it under the same licence
+You may:
+- Share, modify, redistribute under the same license
 - Credit Me
-- Don't sell shit with this stuff on it without asking me
-- Feel free to print YOUR OWN STICKERS AND **NOT SELL IT**
-- Feel free to swap in the logos into programs
+- Use the resources noncomercially
 
+You may **NOT**:
+- Sell without permission
