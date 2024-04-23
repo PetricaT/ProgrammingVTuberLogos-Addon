@@ -2,11 +2,15 @@
 
 Everything here shares the same principle as the main repo by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
+> [!NOTE]
+> I usually browse Aikoyori's backlog and make ones he hasn't made already. If you'd like something made by me specifically, then put in a issue.
+
 ### 📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
 
 ## Community made
 
-- 📗 [G2-Games Addon](https://github.com/G2-Games/fun-logos) [Kate Editor]
+- 📗 [G2-Games's Fun Logos](https://github.com/G2-Games/fun-logos)
+- 📔 [Korean Edition](https://github.com/lDMDiamondl/ProgrammingVTuberLogosKR/)
 
 ## License
 
