@@ -7,6 +7,21 @@ Everything here shares the same principle as the main repo by [Aikoyori](https:/
 
 ### 📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
 
+## In this repo
+
+<details>
+  <summary>Preview</summary>
+
+| Flat                                                     | Shadow                                                                       |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![Neovim Logo](/NeoVim/V2/NeoVimLogo.png "Neovim Logo")  | ![Neovim Logo Shadow](/NeoVim/V2/NeoVimLogoShadow.png "Neovim Logo Shadow")  |
+|                       N/A                                | ![PaperMC Logo](/PaperMC/PaperMCLogo.png)                                    |
+| ![HITSZOpenAuto Logo](/HITSZOpenAuto/HITSZOpenAuto.png)  | ![HITSZOpenAuto Logo](/HITSZOpenAuto/HITSZOpenAutoShadow.png)                |
+| ![Nordvang logo](/NordvangFilms/Nordvang.png)            | ![Nordvang logo](/NordvangFilms/Nordvang-Shadow.png)                         |
+| ![Determinant logo](/Determinant/Determinant.png)        | ![Determinant logo](/Determinant/Determinant-Shadow.png)                     |
+
+</details>
+
 ## Community made
 
 - 📗 [G2-Games's Fun Logos](https://github.com/G2-Games/fun-logos)
