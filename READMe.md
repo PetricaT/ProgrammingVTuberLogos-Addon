@@ -38,7 +38,7 @@ Licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4
 
 ### Permitted:
 
-- **Sharing, Modification, Redistribution:** You are free to share, modify, and redistribute the logos under the same license (CC BY-SA 4.0).
+- **Sharing, Modification, Redistribution:** You are free to share, modify, and redistribute the logos under the same license (CC BY-NC-SA 4.0 ).
 - **Attribution:** You must credit me for the original work.
 - **Noncommercial Use:** The logos may be used for noncommercial purposes.
 
