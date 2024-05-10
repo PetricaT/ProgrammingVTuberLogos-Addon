@@ -34,7 +34,7 @@ Licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4
 <img src="CC-BY-NC-SA-4.0.jpg" width="200" height="80" alt="CC-BY-NC-SA-4.0">
 
 > [!IMPORTANT]
-> In addition to the permissions granted by the CC BY-SA 4.0 license, I am open to providing further permissions upon request. If you require more open permissions for the logos provided under this license, please feel free to contact me. I am willing to consider granting additional permissions on a case-by-case basis.
+> In addition to the permissions granted by the CC BY-NC-SA 4.0 license, I am open to providing further permissions upon request. If you require more open permissions for the logos provided under this license, please feel free to contact me. I am willing to consider granting additional permissions on a case-by-case basis.
 
 ### Permitted:
 
