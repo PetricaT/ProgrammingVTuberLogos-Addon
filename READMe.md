@@ -3,7 +3,7 @@
 Everything here shares the same principle as the main repo by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
 > [!NOTE]
-> I usually browse Aikoyori's backlog and make ones he hasn't made already. If you'd like something made by me specifically, then put in a issue.
+> I usually browse Aikoyori's backlog and make ones he hasn't made already. ~~If you'd like something made by me specifically, then put in a issue.~~ this joke kinda fell off now, idk if I will be making any more.
 
 ### 📕 [Main repository](https://github.com/Aikoyori/ProgrammingVTuberLogos)
 
