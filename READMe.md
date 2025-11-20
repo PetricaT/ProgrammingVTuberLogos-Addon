@@ -19,6 +19,7 @@ Everything here shares the same principle as the main repo by [Aikoyori](https:/
 | ![Neovim Logo](/NeoVim/V2/NeoVim.png "Neovim Logo")         | ![Neovim Logo Shadow](/NeoVim/V2/NeoVim-Shadow.png "Neovim Logo Shadow")     |
 | ![Nordvang logo](/NordvangFilms/V1/Nordvang.png)            | ![Nordvang logo](/NordvangFilms/V1/Nordvang-Shadow.png)                      |
 |                       N/A                                   | ![PaperMC Logo](/PaperMC/V1/PaperMC.png)                                     |
+| ![Tidersky logo](/Tidersky/V1/Tidersky.png)                 | ![Tidersky logo shadow color](/Tidersky/V1/Tidersky-Shadow-Color.png)        |
 
 </details>
 
